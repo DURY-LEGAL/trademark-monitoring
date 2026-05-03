@@ -1,0 +1,24 @@
+{
+  "name": "trademark-monitoring",
+  "version": "0.1.0",
+  "description": "Trademark monitoring - Automated brand protection and infringement detection. Powered by DURY LEGAL.",
+  "keywords": [
+    "trademark",
+    "monitoring",
+    "brand-protection",
+    "infringement",
+    "legal-tech",
+    "dury-legal"
+  ],
+  "author": "DURY LEGAL Rechtsanwaelte <info@dury.de> (https://www.dury.de)",
+  "license": "MIT",
+  "homepage": "https://www.dury.de",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DURY-LEGAL/trademark-monitoring.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Tests coming soon'"
+  }
+}
